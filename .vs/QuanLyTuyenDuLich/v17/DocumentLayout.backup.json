@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|d:\\\u0111\u1ED3 \u00E1n dotnet\\quanlytuyendulich\\formquanly\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|d:\\\u0111\u1ED3 \u00E1n dotnet\\quanlytuyendulich\\formquanly\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formquanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formquanly\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formquanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formquanly\\chuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\chuyendi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|d:\\\u0111\u1ED3 \u00E1n dotnet\\quanlytuyendulich\\formquanly\\tuyendulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\tuyendulich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|d:\\\u0111\u1ED3 \u00E1n dotnet\\quanlytuyendulich\\formquanly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9354D517-7567-40C2-9E7C-B32C1FCC876A}|formQuanLy\\formQuanLy.csproj|solutionrelative:formquanly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\Program.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\Program.cs",
+              "RelativeToolTip": "formQuanLy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T11:49:05.874Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChuyenDi.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\ChuyenDi.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\ChuyenDi.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\ChuyenDi.cs",
+              "RelativeToolTip": "formQuanLy\\ChuyenDi.cs",
+              "ViewState": "AgIAAPUBAAAAAAAAAAAAAAQCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T10:26:32.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoanhThu.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\DoanhThu.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\DoanhThu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\DoanhThu.cs",
+              "RelativeToolTip": "formQuanLy\\DoanhThu.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAcwMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:12:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatVe.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\DatVe.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\DatVe.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\DatVe.cs",
+              "RelativeToolTip": "formQuanLy\\DatVe.cs",
+              "ViewState": "AgIAAA8CAAAAAAAAAAAuwBACAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T05:07:51.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TuyenDuLich.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\TuyenDuLich.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\TuyenDuLich.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\TuyenDuLich.cs",
+              "RelativeToolTip": "formQuanLy\\TuyenDuLich.cs",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAAwJwBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T04:45:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\KhachHang.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\KhachHang.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\KhachHang.cs",
+              "RelativeToolTip": "formQuanLy\\KhachHang.cs",
+              "ViewState": "AgIAAIIBAAAAAAAAAAAmwJgBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:31:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LOGIN.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\LOGIN.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\LOGIN.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\LOGIN.cs",
+              "RelativeToolTip": "formQuanLy\\LOGIN.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:54:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\NhanVien.cs",
+              "RelativeDocumentMoniker": "formQuanLy\\NhanVien.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n dotNet\\QuanLyTuyenDuLich\\formQuanLy\\NhanVien.cs",
+              "RelativeToolTip": "formQuanLy\\NhanVien.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAAqwEMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:05:16.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
