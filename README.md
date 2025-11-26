@@ -37,6 +37,7 @@ Phần mềm được thiết kế đơn giản – trực quan – phù hợp c
 <img width="1462" height="933" alt="image" src="https://github.com/user-attachments/assets/b4672fc8-88a3-4e2f-9e35-3662b19b872b" />
 
 🔑 Phân quyền Nhân viên
+
 <img width="815" height="520" alt="image" src="https://github.com/user-attachments/assets/5dbb27fb-4879-488b-b175-b4b554edbb22" />
 
 
