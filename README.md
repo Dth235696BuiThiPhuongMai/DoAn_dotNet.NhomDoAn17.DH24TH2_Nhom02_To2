@@ -27,19 +27,24 @@ Phần mềm được thiết kế đơn giản – trực quan – phù hợp c
 ---
 
 ✨ Tính năng chính
+
 📌Form Đăng nhập
+
 <img width="1469" height="930" alt="image" src="https://github.com/user-attachments/assets/ba4dabea-4f4f-435d-a4f0-c7a08f0f1635" />
+
 🔑 Phân quyền Quản lý
+
 <img width="1462" height="933" alt="image" src="https://github.com/user-attachments/assets/b4672fc8-88a3-4e2f-9e35-3662b19b872b" />
 
 🔑 Phân quyền Nhân viên
+<img width="815" height="520" alt="image" src="https://github.com/user-attachments/assets/5dbb27fb-4879-488b-b175-b4b554edbb22" />
+
 
 🛣️ Quản lý tuyến du lịch
 - Thêm, sửa, xóa tuyến du lịch  
 - Quản lý điểm đi – điểm đến  
 - Lọc và tìm kiếm nhanh
   <img width="1459" height="933" alt="image" src="https://github.com/user-attachments/assets/86ad152f-f885-4c2a-847c-be814f1a303d" />
-
 
 🚍 Quản lý chuyến đi
 - Quản lý thông tin chuyến đi  
@@ -64,8 +69,6 @@ Phần mềm được thiết kế đơn giản – trực quan – phù hợp c
 - Theo dõi thông tin nhân viên  
 - Kiểm tra trùng lịch phân công
   <img width="1459" height="936" alt="image" src="https://github.com/user-attachments/assets/076ea0a6-af45-42ab-a174-8ffe02b66aef" />
-
-
 
 💰 Doanh thu
 - Thống kê theo tháng / năm  
