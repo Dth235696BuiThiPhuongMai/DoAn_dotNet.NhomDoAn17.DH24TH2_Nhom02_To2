@@ -38,7 +38,8 @@ Phần mềm được thiết kế đơn giản – trực quan – phù hợp c
 
 🔑 Phân quyền Nhân viên
 
-<img width="815" height="520" alt="image" src="https://github.com/user-attachments/assets/5dbb27fb-4879-488b-b175-b4b554edbb22" />
+<img width="1464" height="928" alt="image" src="https://github.com/user-attachments/assets/2d37f608-394d-43aa-9780-33f014711afb" />
+
 
 
 🛣️ Quản lý tuyến du lịch
@@ -51,7 +52,7 @@ Phần mềm được thiết kế đơn giản – trực quan – phù hợp c
 - Quản lý thông tin chuyến đi  
 - Phân công nhân viên hợp lý  
 - Tự động kiểm tra nhân viên rảnh
-- <img width="1458" height="932" alt="image" src="https://github.com/user-attachments/assets/8c9f0246-06d6-4e16-bab2-8667cb6639bc" />
+ <img width="1458" height="932" alt="image" src="https://github.com/user-attachments/assets/8c9f0246-06d6-4e16-bab2-8667cb6639bc" />
 
 
 🧑‍🤝‍🧑 Quản lý khách hàng
